@@ -38,30 +38,30 @@
   Urodziłam się 22.01.1990 w Poznaniu, obecnie mieszkam w Warszawie. Komponuję i produkuję muzykę od 2008 roku. Nagrałam <B>3 solowe płyty oraz kilkadziesiąt jako muzyk akompaniujący, producent i chórzystka</B>. Gram na saksofonie, skrzypcach, instrumentach klawiszowych, gitarze basowej, ukulele, instrumentach perkusyjnych. Śpiewam.
 <br>
 <br>
-<img src="images/pierwszaplyta2.jpg" alt="" width="80%">
-<p><br><img src="images/stars1.jpg" alt="" width="80%">
+<img src="pierwszaplyta2.jpg" alt="" width="80%">
+<p><br><img src="stars1.jpg" alt="" width="80%">
 <br><br>
 Tworzę muzykę elektroniczną pod pseudonimem <B>Dj Little Zebra</B>. Prowadzę kolektyw muzyczny <B>Slavic Jazz Undeground</B>, łączący muzykę słowiańską ze współczesną muzyką rozrywkową, oceniany przez recenzentów jako rewolucyjny projekt muzyczny (Wyborcza, Polskie Radio, Polityka, TOKFM).
 <br><br>
-<img src="images/lenaromulinteria.png" alt="" width="80%">
+<img src="lenaromulinteria.png" alt="" width="80%">
 <br><br>
 Często kooperuję artystycznie. Mam za sobą współpracę koncertową / studyjną z <B>Leszkiem Biolikiem, Majką Jeżowską, Pablopavo, Vavamuffin, Kamilem Bednarkiem, Wojtkiem Pilichowskim, Tabu, Januszem Radkiem, Justyną Steczkowską, Kayah, Grzegorzem Hyżym, Piaskiem, Kasią Moś, Kasią Cerekwicką, Pauliną Przybysz, Stanisławem Sojką, Sławkiem Uniatowskim, Piotrem Roguckim, Krystyną Prońko</B>.
-<br><br><img src="images/poecirocka.jpg" alt="" width="80%">
-<br><br><img src="images/stars4.jpg" alt="" width="80%">
+<br><br><img src="poecirocka.jpg" alt="" width="80%">
+<br><br><img src="stars4.jpg" alt="" width="80%">
 
 <br><br>Stworzyłam oprawę muzyczną na galę rozdania Nagrody Literackiej NIKE w 2016 roku transmitowaną na żywo w TVN24. <B>Jestem laureatką "Szansy na Sukces" z Eleni oraz finalistką "Mam Talent"</B>.<br>
 <br>
-<img src="images/lenaromuleleni.png" alt="" width="80%">
+<img src="lenaromuleleni.png" alt="" width="80%">
 <br><br>
 <B>W wieku 19 lat jako pierwsza kobieta w historii wygrałam główną nagrodę na Międzynarodowym Konkursie Jazz Juniors będąc liderem i kompozytorem utworów zespołu Lena Romul Quintet</B>. Studiowałam Jazz na Akademii Muzycznej we Wrocławiu oraz w Studium Policealnym w Warszawie. Obecnie studiuję Muzykoterapię na Akademii Muzycznej w Łodzi. Jestem nauczycielem muzyki w klasach podstawowych. Byłam stypendystką Ministerstwa Kultury i Edukacji Narodowej. Stworzyłam Kurs Online uczący komponowania w duchu DIY „Muzyka - Twórz Samodzielnie”.
 <br><br>
-<img src="images/pierwszaplyta3.jpg" alt="" width="80%">
+<img src="pierwszaplyta3.jpg" alt="" width="80%">
 
 <br><br>
 Na potrzeby własnych projektów artystycznych komponuję, nagrywam, montuje wideo, tworzę grafiki i strony internetowe. Tworzę autorskie programy nauczania muzycznego. W wolnym czasie zmieniam się amatorską twórczynię rękodzieła oraz uczę jogi indywidualnie (posiadam certyfikat instruktorski). Stworzyłam projekt „Melodia Yoga”, który łączy praktykę jogi z muzyką na żywo.
     </p>
     <br>
-    <img src="images/Lena.JPG" alt="" width="80%">
+    <img src="Lena.JPG" alt="" width="80%">
     <br>
     <p>
       <br>
