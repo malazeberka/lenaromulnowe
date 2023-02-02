@@ -241,7 +241,7 @@ Lena Romul,  pochodząca z Poznania wokalistka, saksofonistka i kompozytorka nie
   </section>
 
   <footer id="main-footer">
-    <p>Lena Romul &copy; 2020</p>
+    <p>Lena Romul &copy; 2023</p>
     <p>lenaromul@gmail.com</p>
   </footer>
 </body>
